@@ -1,0 +1,9 @@
+/*** Copyright (C) 2000-2020 by Webcollage Inc. All rights reserved. ***/
+/*** Protected by US Patent 6,865,593 and pending patent applications ***/
+
+if (typeof _wcSiteContentData === 'undefined')
+var _wcSiteContentData = {};
+
+_wcSiteContentData.noContent = true;
+
+
